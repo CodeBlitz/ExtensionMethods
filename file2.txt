@@ -1,4 +1,1 @@
-Adding some code here.
-Second line here.
-
-
+Text for file 3 here.
