@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTester", "ConsoleTester\ConsoleTester.csproj", "{8AD012D5-C2C9-4A83-BFD5-F6E3815FDC26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextValidation", "TextValidation\TextValidation.csproj", "{3C86E8F6-0C57-4C5C-A36F-65EB6CD69A5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextValidation", "TextValidation\TextValidation.csproj", "{3C86E8F6-0C57-4C5C-A36F-65EB6CD69A5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FCCBCEFB-EF73-44B6-B0EA-B786CC86AD63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
